@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://rvu.otagonz.com/</loc>
+  <lastmod>2017-05-29T04:57:54+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rvu.otagonz.com/gallery.html</loc>
+  <lastmod>2017-05-29T04:57:55+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rvu.otagonz.com/calendar.html</loc>
+  <lastmod>2017-05-29T04:57:51+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rvu.otagonz.com/contact%20us.html</loc>
+  <lastmod>2017-05-29T04:57:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rvu.otagonz.com/about%20us.html</loc>
+  <lastmod>2017-05-29T04:57:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rvu.otagonz.com/index.html</loc>
+  <lastmod>2017-05-29T04:57:54+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
